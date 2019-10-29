@@ -1,6 +1,6 @@
 package controller;
 
-import entity.mapping.oneToOneUni.Student;
+import entity.Student;
 import hibernateUtil.HibernateUtil;
 import org.hibernate.Session;
 
